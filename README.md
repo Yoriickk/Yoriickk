@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yoriickk
+- 👋 Hi, I’m @Yorick
 - 👀 I’m interested in programming; Java, SQL, Python
 - 🌱 I’m currently learning Java OCP @ Oracle university
 - 📫 How to reach me info@yorick-terheide.nl
