@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yorick
-- 👀 I’m interested in programming; Java, SQL, Python
+- 👀 I’m interested in programming; Java, SQL.
 - 🌱 I’m currently learning Java OCP @ Oracle university
 
 <!---
